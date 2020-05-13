@@ -1,0 +1,10 @@
+/**index.wxss**/
+.btn{
+  width:420rpx;
+  height:90rpx;
+  text-align: center;
+  line-height: 90rpx;
+  color:#333;
+  font-size:30rpx;
+  border:solid #ccc 1rpx;
+}

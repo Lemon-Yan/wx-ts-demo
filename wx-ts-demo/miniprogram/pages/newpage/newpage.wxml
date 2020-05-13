@@ -1,0 +1,4 @@
+<!--miniprogram/pages/newpage/newpage.wxml-->
+<view class="container">
+	新页面
+</view>

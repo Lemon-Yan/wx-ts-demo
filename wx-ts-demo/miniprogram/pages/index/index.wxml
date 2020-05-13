@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="btn" catchtap="openNewPage" data-id="222">打开新页面</view>
+</view>
